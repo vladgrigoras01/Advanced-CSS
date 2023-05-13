@@ -1,0 +1,75 @@
+body{
+  background-image: url(./placeholder-image.png);
+  margin: 5%;
+
+}
+.flex-box{
+    margin:auto;
+    width: 50%;
+   
+    justify-content: start;
+}
+.image-box
+{
+    width: 100%;
+}
+.image-box input[type="radio"]
+{
+    width: 100px;
+    height: 100px;
+    padding: 5%;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+    appearance: none;
+   transition: none;
+   box-shadow: 0 0 2px #000;
+}
+.image-box input[type=""]:hover
+{
+    transform: scale(1.1);
+
+    box-shadow: 0 0 5px #000;
+}
+#img-01{
+background-image: url(./vlad.jpg.webp);
+background-size: cover;
+}
+#img-02{
+    background-image: url(./vlad.jpg.webp);
+    background-size: cover;
+}
+#img-03{
+     background-image: url(./vlad.jpg.webp);
+    background-size: cover;
+ }  
+ #img-04{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+#img-05{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+#img-06{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+#img-07{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+#img-08{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+#img-09{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+#img-010{
+    background-image: url(./vlad.jpg.webp);
+   background-size: cover;
+}  
+
